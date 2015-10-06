@@ -26,11 +26,11 @@
 				<key>caret</key>
 				<string>#000000ff</string>
 				<key>invisibles</key>
-				<string>#c2c2c282</string>
+				<string>#999999ff</string>
 				<key>lineHighlight</key>
-				<string>#fffb9380</string>
+				<string>#00FF8B20</string>
 				<key>findHighlight</key>
-				<string>#4fa5c7ff</string>
+				<string>#56E07E66</string>
 				<key>inactiveSelection</key>
 				<string>#4cc8fe21</string>
 				<key>gutter</key>
@@ -129,7 +129,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#008BFF</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -160,7 +160,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#637f8e8f</string>
+				<string>#A3B0aaaa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -171,7 +171,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#637f8eab</string>
+				<string>#91A46F99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -329,7 +329,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e15500ff</string>
+				<string>#FF0010</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1057,7 +1057,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8f5fbeff</string>
+				<string>#B15DFFff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1078,8 +1078,10 @@
 			<string>source.php support.function</string>
 			<key>settings</key>
 			<dict>
+                <key>fontStyle</key>
+                <string>bold</string>
 				<key>foreground</key>
-				<string>#cd3f45ff</string>
+				<string>#FF6600</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1101,7 +1103,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3d556dff</string>
+				<string>#000AE3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1148,7 +1150,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cd3f45ff</string>
+				<string>#FF3645ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1199,7 +1201,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#83db83ff</string>
+				<string>#F200E0ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1248,7 +1250,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#009fffff</string>
+				<string>#0076ECcc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1317,7 +1319,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#25ab1cff</string>
+				<string>#00CD06ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3042,7 +3044,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3060,7 +3062,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3069,7 +3071,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
 		<dict>
