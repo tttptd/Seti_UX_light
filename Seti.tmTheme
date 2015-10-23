@@ -22,7 +22,8 @@
 				<key>background</key>
 				<string>#ffffffff</string>
 				<key>foreground</key>
-				<string>#000000ff</string>
+                <!-- <string>#333366</string> -->
+				<string>#333333</string>
 				<key>caret</key>
 				<string>#000000ff</string>
 				<key>invisibles</key>
@@ -61,7 +62,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d4d7d6ff</string>
+				<string>#858d8aff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +139,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3f0f5ff</string>
+				<string>#B84B26</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,7 +242,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#ff0000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -647,7 +648,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1fb45eff</string>
+				<string>#1fb45e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -679,8 +680,10 @@
 			<string>entity.other.attribute-name.id.html</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#fccc2cff</string>
+                <key>foreground</key>
+                <string>#BB0008</string>
+                <key>fontStyle</key>
+                <string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -691,7 +694,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1fb45eff</string>
+				<string>#1fb45e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -702,7 +705,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c5d8e2ff</string>
+				<string>#b5c8d2ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -713,7 +716,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fccc2cff</string>
+				<string>#ff897D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -735,7 +738,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fccc2cff</string>
+				<string>#ff897D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -746,7 +749,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fccc2cff</string>
+                <string>#ff897D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -836,7 +839,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#55b5dbff</string>
+				<string>#00C906</string>
 			</dict>
 		</dict>
 		<dict>
@@ -847,7 +850,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a1a1a1ff</string>
+				<string>#666666</string>
 			</dict>
 		</dict>
 		<dict>
@@ -908,7 +911,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cec669ff</string>
+				<string>#CD8000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1014,8 +1017,10 @@
 			<string>variable.other.global.safer.php</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#00ff00ff</string>
+                <key>foreground</key>
+                <string>#02C700</string>
+				<key>background</key>
+				<string>#FFEA00aa</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -1046,9 +1051,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9fd0d8ff</string>
+				<string>#B62C2B</string>
 				<key>background</key>
-				<string>#94ddff30</string>
+				<string>#FFF3B6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1365,12 +1370,12 @@
 			<string>entity.name.tag.laravel-blade</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
+				<!-- <key>fontStyle</key>
+				<string>italic</string> -->
 				<key>foreground</key>
-				<string>#fe5a7d80</string>
-				<key>background</key>
-				<string>#2f041e4f</string>
+				<string>#fe5a7d</string>
+                <key>background</key>
+                <string>#FFFA0066</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1379,9 +1384,11 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>normal</string>
 				<key>foreground</key>
-				<string>#ffff55ff</string>
+				<string>#0000ff</string>
+                <key>background</key>
+                <string>#FFFA0066</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1389,10 +1396,12 @@
 			<string>embedded.line.html support.constant.laravel-blade</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<string>#ffff55ff</string>
+				<!-- <key>fontStyle</key>
+				<string>italic</string> -->
+                <key>foreground</key>
+                <string>#ffff55ff</string>
+				<key>background</key>
+				<string>#FFFA0066</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1605,7 +1614,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#00ff00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1625,7 +1634,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d8f6ffff</string>
+				<string>#527CD5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1634,7 +1643,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fccc2cff</string>
+				<string>#D5CC09</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1797,7 +1806,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#84f6c3ff</string>
+				<string>#45D547</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1819,7 +1828,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fccc2cff</string>
+				<string>#FEBF09</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2180,7 +2189,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#0000ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2461,7 +2470,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#02aeffff</string>
+				<string>#02aeff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2542,8 +2551,10 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>italic</string>
-				<key>foreground</key>
-				<string>#f0a79eff</string>
+                <key>foreground</key>
+                <string>#FF4C00</string>
+				<key>background</key>
+				<string>#FFF40090</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2552,7 +2563,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1fb45eff</string>
+				<string>#1fb45e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2561,7 +2572,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3f0f5ff</string>
+				<string>#F97500</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2570,7 +2581,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3f0f5ff</string>
+				<string>#0087FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2652,7 +2663,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#00ffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2795,7 +2806,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ad00d9ff</string>
+				<string>#9C00D444</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2806,7 +2817,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#00ff79ff</string>
+				<string>#5DC770aa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2817,7 +2828,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#41535bff</string>
+				<string>#41535b44</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2993,7 +3004,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d675c7ff</string>
+				<string>#9C00D4aa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3004,7 +3015,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1fb45eff</string>
+				<string>#3Da750</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3026,7 +3037,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9c9c9cff</string>
+				<string>#8c8c8c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3035,7 +3046,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc01ff</string>
+				<string>#F97900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3044,7 +3055,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#999999</string>
+				<string>#f97900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3053,7 +3064,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string></string>
+				<string>#888888</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3669,7 +3680,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f90504ff</string>
+				<string>#FF0000ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3679,8 +3690,8 @@
 			<string>markup.inserted.git_gutter</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#21e209ff</string>
+                <key>foreground</key>
+                <string>#00B10C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3691,7 +3702,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e3b600ff</string>
+				<string>#FF8B00</string>
 			</dict>
 		</dict>
 		<dict>
