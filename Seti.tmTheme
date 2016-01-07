@@ -457,7 +457,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#02aeffff</string>
+				<string>#02aeff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -626,7 +626,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#009fffff</string>
+				<string>#007DC9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -637,7 +637,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#009fffff</string>
+				<string>#007DC9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -705,7 +705,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b5c8d2ff</string>
+				<string>#8D9DA5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -716,7 +716,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff897D</string>
+				<string>#FF5C50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -738,7 +738,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff897D</string>
+				<string>#FF5C50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -749,7 +749,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-                <string>#ff897D</string>
+                <string>#FF5C50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -758,7 +758,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3f0f5ff</string>
+				<string>#6D6B64</string>
 			</dict>
 		</dict>
 		<dict>
@@ -769,7 +769,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#009fffff</string>
+				<string>#FF5C50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -961,7 +961,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#bbfd0dff</string>
+				<string>#97CC0A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1332,8 +1332,10 @@
 			<string>variable.other.class.php</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#50dcf5ff</string>
+                <key>foreground</key>
+                <string>#069DD1</string>
+				<key>background</key>
+				<string>#FEFFD3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1708,8 +1710,10 @@
 			<string>entity.other.attribute-name.id.css, entity.other.attribute-name.id.css punctuation</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#ffd200ff</string>
+                <key>foreground</key>
+                <string>#EE6E00</string>
+				<key>background</key>
+				<string>#FFF5B6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1806,7 +1810,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#45D547</string>
+				<string>#4165AC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1881,9 +1885,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e3e300ff</string>
-				<key>background</key>
-				<string>#f0f0d20f</string>
+				<string>#CACA00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1917,10 +1919,12 @@
 			<string>keyword.other.important.css</string>
 			<key>settings</key>
 			<dict>
+                <key>fontStyle</key>
+                <string>italic</string>
 				<key>foreground</key>
-				<string>#fda100ff</string>
+				<string>#FF6C00</string>
 				<key>background</key>
-				<string>#cd3f4530</string>
+				<string>#cd3f4520</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1942,9 +1946,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9fd0d8ff</string>
+				<string>#53A2D8</string>
 				<key>background</key>
-				<string>#94ddff0f</string>
+				<string>#E5EFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2610,7 +2614,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efefefff</string>
+				<string>#979A99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2784,7 +2788,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#44daf5ff</string>
+				<string>#007EC466</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2982,7 +2986,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#44daf5ff</string>
+				<string>#007EC4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3533,7 +3537,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffffffff</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3544,7 +3548,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#13ffa3ff</string>
+				<string>#00C30F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -3669,7 +3673,7 @@
 				<key>foreground</key>
 				<string>#fda100ff</string>
 				<key>background</key>
-				<string>#cd3f4530</string>
+				<string>#C3939433</string>
 			</dict>
 		</dict>
 		<dict>
