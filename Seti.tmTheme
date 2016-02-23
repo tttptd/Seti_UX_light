@@ -619,7 +619,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c1e300ff</string>
+				<string>#0EB0B6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1500,7 +1500,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fff</string>
+				<string>#B67042</string>
 			</dict>
 		</dict>
 
